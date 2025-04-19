@@ -1,5 +1,5 @@
 {
-  "name": "RAVEN-BOT",
+  "name": "TEDDY-XMD",
   "description": "A simple yet complicated WhatsApp bot, ♤Enjoy♡",
   "keywords": [
     "bot",
@@ -14,13 +14,13 @@
     "baileys-md",
     "md-bot"
   ],
-  "website": "https://github.com/HunterNick2/RAVEN-BOT#readme",
-  "repository": "https://github.com/HunterNick2/RAVEN-BOT.git",
-  "logo": "https://files.catbox.moe/duv8ac.jpg",
+  "website": "https://github.com/Teddytech1/TEDDY-XMD#readme",
+  "repository": "https://github.com/Teddytech1/TEDDY-XMD.git",
+  "logo": "https://files.catbox.moe/8v1o4d.jpg",
   "success_url": "/",
   "env": {
     "PREFIX": {
-      "description": "Prefix of RAVEN-BOT Ex: . , / , # , & etc. Put any symbol or leave it blank",
+      "description": "Prefix of TEDDY-XMD Ex: . , / , # , & etc. Put any symbol or leave it blank",
       "required": false
 
     },
@@ -124,12 +124,12 @@
 },
  "STICKER_AUTHOR": {
       "description": "Input sticker data for author",
-      "value": "RAVEN-BOT",
+      "value": "TEDDY-XMD",
       "required": false
 },
  "STICKER_PACKNAME": {
       "description": "Input sticker data for packname",
-      "value": "RAVEN-BOT",
+      "value": "TEDDY-XMD",
       "required": false
 },
  "GPT_INBOX": {
@@ -138,7 +138,7 @@
 },
   "MENU_LINK": {
       "description": "Paste your Image Url here or use the default one, This will display it on your menu if you set MENU_TYPE as IMAGE.",
-      "value": "https://files.catbox.moe/duv8ac.jpg",
+      "value": "https://files.catbox.moe/8v1o4d.jpg",
       "required": false 
     },  
   "MENU_TYPE": {
