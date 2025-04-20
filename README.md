@@ -43,7 +43,7 @@ src="https://cardivo.vercel.app/api?name=𝗧𝗘𝗗𝗗𝗬%20𝗫𝗠𝗗%20V
 
 
 
-<a href='teddy-xmd-session.onrender.com/' target="_blank"><img alt='joel' src='https://img.shields.io/badge/PAIR CODE-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
+<a href='https://teddy-xmd-session.onrender.com/' target="_blank"><img alt='joel' src='https://img.shields.io/badge/PAIR CODE-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
 
 
  
